@@ -8,7 +8,7 @@
     "esModuleInterop": true,
     "sourceMap": true,
     "allowJs": true,
-    "lib": ["es6", "dom"],
+    "lib": ["esnext", "dom"],
     "target": "esnext",
     "rootDir": "src",
     "moduleResolution": "node"
